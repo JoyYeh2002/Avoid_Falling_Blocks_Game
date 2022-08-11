@@ -6,10 +6,10 @@ The complete unity file can be downloaded here: https://drive.google.com/file/d/
 Video demo (0:00 - 02:24): https://youtu.be/RM0neAN5Zjo\
 
 My game implementation:\
-![alt text](http://url/to/img.png](https://cdn.discordapp.com/attachments/918977316875558912/1007331423633543248/falling_blocks_game.PNG)
+![alt text](https://cdn.discordapp.com/attachments/918977316875558912/1007331423633543248/falling_blocks_game.PNG)
 
 The "game over" screen:\
-![alt text](http://url/to/img.png](https://cdn.discordapp.com/attachments/918977316875558912/1007331424023625789/ggPNG.PNG)
+![alt text](https://cdn.discordapp.com/attachments/918977316875558912/1007331424023625789/ggPNG.PNG)
 
 Deborah's "Dodging Obstacles" game:\
 ![alt text](https://cdn.discordapp.com/attachments/918977316875558912/1007331423251873923/deborah_3.PNG)
