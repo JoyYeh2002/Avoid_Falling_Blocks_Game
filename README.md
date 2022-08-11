@@ -26,3 +26,6 @@ My teammates' projects, also for motor rehabilitation:
 **David's Java "Car Speed Dodging" game:**
 \
 ![alt text](https://cdn.discordapp.com/attachments/918977316875558912/1007332327451525150/david_day.PNG)
+
+
+Return to Joy's website: https://joyyeh2002.github.io/compsci.html
