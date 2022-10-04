@@ -1,6 +1,6 @@
 # Avoid Falling Blocks Games
 
-Return to Joy's website: https://joyyeh2002.github.io/compsci.html
+Return to [Joy's website](https://joyyeh2002.github.io/compsci.html)
 
 **Final Project for FA20 EN.500.111 HEART: Engineering Rehabilitation or Motor, Neurologic and Psychiatric Disorders**
 
@@ -8,7 +8,7 @@ Return to Joy's website: https://joyyeh2002.github.io/compsci.html
 
 The complete unity file of the "Avoid Falling Blocks Game" can be downloaded [here](https://drive.google.com/file/d/1lRa212qhWq2_JJGezhJLNYlgwzsdUuhc/view?usp=sharing).
 
-Video demo (0:00 - 02:24): https://youtu.be/RM0neAN5Zjo
+[Video demo](https://youtu.be/RM0neAN5Zjo)
 
 My game implementation is based on the Unity Engine. There is an infinite grid of various geometric shapes falling down from the screen at different speeds and angles. The player moves the cursor to dodge the objects. 
 \
@@ -31,4 +31,4 @@ My teammates' projects, also for motor rehabilitation:
 ![alt text](https://cdn.discordapp.com/attachments/918977316875558912/1007332327451525150/david_day.PNG)
 
 
-Return to Joy's website: https://joyyeh2002.github.io/compsci.html
+Return to [Joy's website](https://joyyeh2002.github.io/compsci.html)
