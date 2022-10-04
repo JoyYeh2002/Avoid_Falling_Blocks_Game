@@ -1,7 +1,10 @@
 # Avoid Falling Blocks Games
-Final Project for FA20 EN.500.111 HEART: Engineering Rehabilitation or Motor, Neurologic and Psychiatric Disorders
 
-Teammates: Davia Day, Deborah Roman, Isaac Lee
+Return to Joy's website: https://joyyeh2002.github.io/compsci.html
+
+**Final Project for FA20 EN.500.111 HEART: Engineering Rehabilitation or Motor, Neurologic and Psychiatric Disorders**
+
+**Teammates: Davia Day, Deborah Roman, Isaac Lee**
 
 The complete unity file of the "Avoid Falling Blocks Game" can be downloaded here: https://drive.google.com/file/d/1lRa212qhWq2_JJGezhJLNYlgwzsdUuhc/view?usp=sharing
 
