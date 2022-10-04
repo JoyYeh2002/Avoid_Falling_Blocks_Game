@@ -6,7 +6,7 @@ Return to Joy's website: https://joyyeh2002.github.io/compsci.html
 
 **Teammates: Davia Day, Deborah Roman, Isaac Lee**
 
-The complete unity file of the "Avoid Falling Blocks Game" can be downloaded here: https://drive.google.com/file/d/1lRa212qhWq2_JJGezhJLNYlgwzsdUuhc/view?usp=sharing
+The complete unity file of the "Avoid Falling Blocks Game" can be downloaded [here](https://drive.google.com/file/d/1lRa212qhWq2_JJGezhJLNYlgwzsdUuhc/view?usp=sharing).
 
 Video demo (0:00 - 02:24): https://youtu.be/RM0neAN5Zjo
 
