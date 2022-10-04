@@ -10,6 +10,8 @@ The complete unity file of the "Avoid Falling Blocks Game" can be downloaded [he
 
 [Video demo](https://youtu.be/RM0neAN5Zjo)
 
+# Description
+
 My game implementation is based on the Unity Engine. There is an infinite grid of various geometric shapes falling down from the screen at different speeds and angles. The player moves the cursor to dodge the objects. 
 \
 The difficulty (size of obstacles, control keys, and fall speed) can be adjusted in the Unity interface to achieve different training levels. 
